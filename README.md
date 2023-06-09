@@ -1,6 +1,6 @@
 # brezovec_volition_2023
 
-[10.5281/zenodo.8475](https://doi.org/10.5281/zenodo.8475)
+[![DOI](https://zenodo.org/badge/651693859.svg)](https://zenodo.org/badge/latestdoi/651693859)
 
 Custom code associated with:
 
